@@ -1,0 +1,7 @@
+[
+    { "name": "Product Ananas", "price": 10, "quantity": 5 },
+    { "name": "Product Bananas", "price": 20, "quantity": 3 },
+    { "name": "Product Choko", "price": 20, "quantity": 3 },
+    { "name": "Product Cherry", "price": 15, "quantity": 7 },
+    { "name": "Product Soda", "price": 25, "quantity": 1 }
+]
